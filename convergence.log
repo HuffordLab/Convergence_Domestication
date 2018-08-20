@@ -1,0 +1,145 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  20 AUG 2018 15:17
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**convergence.tex
+(./convergence.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./convergence.aux)
+\openout1 = `convergence.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+ [1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (13.2384pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/12 https://www.frontiersin.org/articles/10.3389/fevo.2018.00056/fu
+ll. Con-versely,
+ []
+
+[2] [3]
+Overfull \hbox (117.66pt too wide) in paragraph at lines 32--33
+\OT1/cmr/m/n/12 sive nu-cleotide di-ver-sity loss is re-ported in do-mes-ti-cat
+ed bread wheat (doi:10.1093/molbev/msm077),
+ []
+
+
+Overfull \hbox (34.96654pt too wide) in paragraph at lines 32--33
+\OT1/cmr/m/n/12 maize (with an in-crease in dele-te-ri-ous al-le-les) (PMID: 95
+39756, DOI 10.1186/s13059-
+ []
+
+
+Overfull \hbox (24.75821pt too wide) in paragraph at lines 32--33
+\OT1/cmr/m/n/12 017-1346-4), rice (PMID: 17218640), Sorghum (doi: 10.1534/ge-ne
+t-ics.105.054312),
+ []
+
+
+Overfull \hbox (18.19984pt too wide) in paragraph at lines 34--34
+[]\OT1/cmr/bx/n/17.28 Post-domestication adap-ta-tion in grass crops:
+ []
+
+
+Overfull \hbox (96.22736pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/12 (http://dx.doi.org/10.1105/tpc.111; re-viewed in https://doi.or
+g/10.1016/j.tplants.2014.07.003).
+ []
+
+
+Overfull \hbox (167.59698pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/12 than their syn-teni-cally re-tained, basal coun-ter-parts (http
+://www.genome.org/cgi/doi/10.1101/gr.081026.108).
+ []
+
+
+Overfull \hbox (92.13666pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/12 prop-a-gate through trans du-pli-ca-tion (http://www.genome.org
+/cgi/doi/10.1101/gr.081026.108.,
+ []
+
+
+Overfull \hbox (0.53113pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/12 https://doi.org/10.1371/journal.pgen.1000949); there-fore, move
+-ment of these
+ []
+
+
+Overfull \hbox (40.41544pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/12 https://doi.org/10.1371/journal.pgen.1004915; re-viewed in 10.3
+389/fpls.2016.01448),
+ []
+
+[4]
+Overfull \hbox (74.25073pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/12 (https://doi.org/10.1371/journal.pbio.1000409, https://doi.org/
+10.1073/pnas.1101368108).
+ []
+
+[5] [6]
+
+LaTeX Warning: Reference `results' on page 7 undefined on input line 43.
+
+
+LaTeX Warning: Reference `conclusions' on page 7 undefined on input line 44.
+
+No file convergence.bbl.
+[7] (./convergence.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 221 strings out of 492649
+ 2455 string characters out of 6129622
+ 67981 words of memory out of 5000000
+ 4184 multiletter control sequences out of 15000+600000
+ 6671 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,6n,19p,3178b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on convergence.pdf (7 pages, 84072 bytes).
+PDF statistics:
+ 48 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
