@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  4 SEP 2018 20:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  4 SEP 2018 20:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -522,21 +522,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Cskip=\skip59
 )
 \c@@todonotes@numberoftodonotes=\count147
-) (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux
-
-/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux:142: Package natbib Error: Bibliography not compatible with author-year citations.
-(natbib)                Press <return> to continue in numerical citation style.
-
-See the natbib package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.142 ...and\NAT@force@numbers{}\NAT@force@numbers
-                                                  
-Check the bibliography entries for non-compliant syntax,
-or select author-year BibTeX style, e.g. plainnat
-
-)
+) (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux)
 \openout1 = `convergence.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
@@ -708,10 +694,10 @@ Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
+ [4]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
- [4]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
@@ -749,17 +735,22 @@ Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
-[7] (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.bbl [8] [9] [10] [11] [12]) [13] (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux) ) 
+[7] (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.bbl [8]
+Underfull \hbox (badness 10000) in paragraph at lines 22--28
+[]\OT1/ptm/m/n/12 YANIS BOUCHENAK-KHELLADI, G. AN-THONY VER-BOOM, VIN-CENT
+ []
+
+[9] [10] [11] [12]) [13] (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux) ) 
 Here is how much of TeX's memory you used:
- 14669 strings out of 493089
- 283381 string characters out of 6134842
- 357858 words of memory out of 5000000
- 17815 multiletter control sequences out of 15000+600000
+ 14668 strings out of 493089
+ 283366 string characters out of 6134842
+ 357857 words of memory out of 5000000
+ 17814 multiletter control sequences out of 15000+600000
  24410 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,56p,2133b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,11n,56p,2134b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.pdf (13 pages, 84484 bytes).
+Output written on /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.pdf (13 pages, 84797 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
