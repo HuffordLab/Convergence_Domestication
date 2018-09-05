@@ -1,11 +1,11 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: convergence.aux
 The style file: ieeetr.bst
-Database file #1: ../convergence.bib.bib
+Database file #1: convergence.bib
 You've used 60 entries,
             1876 wiz_defined-function locations,
-            896 strings with 16496 characters,
+            896 strings with 16323 characters,
 and the built_in function-call counts, 20979 in all, are:
 = -- 2172
 > -- 871
