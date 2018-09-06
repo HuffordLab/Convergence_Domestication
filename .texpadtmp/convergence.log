@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 SEP 2018 08:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 SEP 2018 10:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -678,9 +678,6 @@ Missing character: There is no ” in font ptmr7t!
  [3]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
 Missing character: There is no œ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
@@ -715,7 +712,7 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
 
-Overfull \hbox (16.26057pt too wide) in paragraph at lines 139--140
+Overfull \hbox (16.26057pt too wide) in paragraph at lines 148--149
 []\OT1/ptm/m/n/12 But an-other way an adap-ta-tion trait could es-cape a do-mes-ti-ca-tion bot-tle-neck is if the domestication-
  []
 
@@ -738,9 +735,9 @@ Here is how much of TeX's memory you used:
  17814 multiletter control sequences out of 15000+600000
  24410 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,56p,2134b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,11n,56p,2040b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.pdf (13 pages, 85408 bytes).
+Output written on /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.pdf (13 pages, 85456 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
