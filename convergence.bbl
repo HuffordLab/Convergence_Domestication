@@ -1,9 +1,39 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{Arendsee2014}
 Zebulun~W. Arendsee, Ling Li, and Eve~Syrkin Wurtele.
 \newblock Coming of age: orphan genes in plants.
 \newblock {\em Trends in Plant Science}, 19(11):698--708, nov 2014.
+
+\bibitem{Asano2011}
+K.~Asano, M.~Yamasaki, S.~Takuno, K.~Miura, S.~Katagiri, T.~Ito, K.~Doi, J.~Wu,
+  K.~Ebana, T.~Matsumoto, H.~Innan, H.~Kitano, M.~Ashikari, and M.~Matsuoka.
+\newblock Artificial selection for a green revolution gene during japonica rice
+  domestication.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  108(27):11034--11039, jun 2011.
+
+\bibitem{Asano2007}
+Kenji Asano, Tomonori Takashi, Kotaro Miura, Qian Qian, Hidemi Kitano, Makoto
+  Matsuoka, and Motoyuki Ashikari.
+\newblock Genetic and molecular analysis of utility of sd1 alleles in rice
+  breeding.
+\newblock {\em Breeding Science}, 57(1):53--58, 2007.
+
+\bibitem{Asp2011}
+Torben Asp, Stephen Byrne, Heidrun Gundlach, R{\'{e}}my Bruggmann, Klaus F.~X.
+  Mayer, Jeppe~R. Andersen, Mingliang Xu, Morten Greve, Ingo Lenk, and Thomas
+  L\"{u}bberstedt.
+\newblock Comparative sequence analysis of {VRN}1 alleles of lolium perenne
+  with the co-linear regions in barley, wheat, and rice.
+\newblock {\em Molecular Genetics and Genomics}, 286(5-6):433--447, nov 2011.
+
+\bibitem{Beales2007}
+James Beales, Adrian Turner, Simon Griffiths, John~W. Snape, and David~A.
+  Laurie.
+\newblock A pseudo-response regulator is misexpressed in the photoperiod
+  insensitive ppd-d1a mutant of wheat (triticum aestivum l.).
+\newblock {\em Theoretical and Applied Genetics}, 115(5):721--733, jul 2007.
 
 \bibitem{Beguiristain2001}
 T.~Beguiristain.
@@ -24,6 +54,13 @@ Benjamin~K. Blackman.
   plasticity of flowering time.
 \newblock {\em Plant Physiology}, 173(1):16--26, nov 2016.
 
+\bibitem{Blackman2010}
+Benjamin~K. Blackman, Jared~L. Strasburg, Andrew~R. Raduski, Scott~D. Michaels,
+  and Loren~H. Rieseberg.
+\newblock The role of recently derived {FT} paralogs in sunflower
+  domestication.
+\newblock {\em Current Biology}, 20(7):629--635, apr 2010.
+
 \bibitem{BOUCHENAKKHELLADI2010}
 YANIS BOUCHENAK-KHELLADI, G.~ANTHONY VERBOOM, VINCENT SAVOLAINEN, and TREVOR~R.
   HODKINSON.
@@ -31,6 +68,13 @@ YANIS BOUCHENAK-KHELLADI, G.~ANTHONY VERBOOM, VINCENT SAVOLAINEN, and TREVOR~R.
   reveal evolutionary history in geographical space and geological time.
 \newblock {\em Botanical Journal of the Linnean Society}, 162(4):543--557, apr
   2010.
+
+\bibitem{Butelli2012}
+E.~Butelli, C.~Licciardello, Y.~Zhang, J.~Liu, S.~Mackay, P.~Bailey,
+  G.~Reforgiato-Recupero, and C.~Martin.
+\newblock Retrotransposons control fruit-specific, cold-dependent accumulation
+  of anthocyanins in blood oranges.
+\newblock {\em The Plant Cell}, 24(3):1242--1255, mar 2012.
 
 \bibitem{Chang2004}
 Chien-Chang Chang, Hsin-Liang Chen, Wen-Hsiung Li, and Shu-Miaw Chaw.
@@ -44,12 +88,30 @@ L.~P. Chauvin, M.~Houde, and F.~Sarhan.
   to low temperature}.
 \newblock {\em Plant Mol. Biol.}, 23(2):255--265, Oct 1993.
 
+\bibitem{Comadran2012}
+Jordi Comadran, Benjamin Kilian, Joanne Russell, Luke Ramsay, Nils Stein,
+  Martin Ganal, Paul Shaw, Micha Bayer, William Thomas, David Marshall, Pete
+  Hedley, Alessandro Tondelli, Nicola Pecchioni, Enrico Francia, Viktor Korzun,
+  Alexander Walther, and Robbie Waugh.
+\newblock Natural variation in a homolog of antirrhinum {CENTRORADIALIS}
+  contributed to spring growth habit and environmental adaptation in cultivated
+  barley.
+\newblock {\em Nature Genetics}, 44(12):1388--1392, nov 2012.
+
 \bibitem{pmid9952464}
 C.~Crosatti, P.~Polverino~de Laureto, R.~Bassi, and L.~Cattivelli.
 \newblock {{T}he interaction between cold and light controls the expression of
   the cold-regulated barley gene cor14b and the accumulation of the
   corresponding protein}.
 \newblock {\em Plant Physiol.}, 119(2):671--680, Feb 1999.
+
+\bibitem{Daz2012}
+Aurora D{\'{\i}}az, Meluleki Zikhali, Adrian~S. Turner, Peter Isaac, and
+  David~A. Laurie.
+\newblock Copy number variation affecting the photoperiod-b1 and
+  vernalization-a1 genes is associated with altered flowering time in wheat
+  (triticum aestivum).
+\newblock {\em {PLoS} {ONE}}, 7(3):e33234, mar 2012.
 
 \bibitem{pmid9087405}
 J.~Doebley, A.~Stec, and L.~Hubbard.
@@ -93,6 +155,21 @@ A.~Eyre-Walker, R.~L. Gaut, H.~Hilton, D.~L. Feldman, and B.~S. Gaut.
   maize}.
 \newblock {\em Proc. Natl. Acad. Sci. U.S.A.}, 95(8):4441--4446, Apr 1998.
 
+\bibitem{Fan2008}
+Longjiang Fan, Liyan Quan, Xiaodong Leng, Xingyi Guo, Weiming Hu, Songlin Ruan,
+  Huasheng Ma, and Mengqian Zeng.
+\newblock Molecular evidence for post-domestication selection in the waxy gene
+  of chinese waxy maize.
+\newblock {\em Molecular Breeding}, 22(3):329--338, mar 2008.
+
+\bibitem{Faure2012}
+S.~Faure, A.~S. Turner, D.~Gruszka, V.~Christodoulou, S.~J. Davis, M.~von
+  Korff, and D.~A. Laurie.
+\newblock Mutation at the circadian clock gene {EARLY} {MATURITY} 8 adapts
+  domesticated barley (hordeum vulgare) to short growing seasons.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  109(21):8328--8333, may 2012.
+
 \bibitem{FernndezMarn2014}
 Beatriz Fernandez-Marin, Ruben Milla, Nieves Martin-Robles, Erwann Arc, Ilse
   Kranner, Jose~Maria Becerril, and Jose~Ignacio Garcia-Plazaola.
@@ -108,6 +185,13 @@ Dimitrios Fotiadis, Paul Jen\"{o}, Thierry Mini, Sabine Wirtz, Shirley~A.
   spinach leaf plasma membranes.
 \newblock {\em Journal of Biological Chemistry}, 276(3):1707--1714, oct 2000.
 
+\bibitem{Foucher2003}
+F.~Foucher.
+\newblock {DETERMINATE} and {LATE} {FLOWERING} are two {TERMINAL}
+  {FLOWER}1/{CENTRORADIALIS} homologs that control two distinct phases of
+  flowering initiation and development in pea.
+\newblock {\em {THE} {PLANT} {CELL} {ONLINE}}, 15(11):2742--2754, oct 2003.
+
 \bibitem{pmid11244100}
 M.~Freeling.
 \newblock {{G}rasses as a single genetic system: reassessment 2001}.
@@ -118,6 +202,13 @@ M.~Freeling, E.~Lyons, B.~Pedersen, M.~Alam, R.~Ming, and D.~Lisch.
 \newblock Many or most genes in arabidopsis transposed after the origin of the
   order brassicales.
 \newblock {\em Genome Research}, 18(12):1924--1937, oct 2008.
+
+\bibitem{Furukawa2006}
+Tsutomu Furukawa, Masahiko Maekawa, Tomoyuki Oki, Ikuo Suda, Shigeru Iida,
+  Hiroaki Shimada, Itsuro Takamure, and Koh ichi Kadowaki.
+\newblock The rc and rd genes are involved in proanthocyanidin synthesis in
+  rice pericarp.
+\newblock {\em The Plant Journal}, 49(1):91--102, dec 2006.
 
 \bibitem{Gaxiola2001}
 R.~A. Gaxiola, J.~Li, S.~Undurraga, L.~M. Dang, G.~J. Allen, S.~L. Alper, and
@@ -132,6 +223,12 @@ Paul Gepts.
 \newblock Crop domestication as a long-term selection experiment.
 \newblock In {\em Plant Breeding Reviews}, pages 1--44. John Wiley {\&} Sons,
   Inc., jun 2010.
+
+\bibitem{Gillman2011}
+Jason~D Gillman, Ashley Tetlow, Jeong-Deong Lee, J~Shannon, and Kristin Bilyeu.
+\newblock Loss-of-function mutations affecting a specific glycine max r2r3
+  {MYB} transcription factor result in brown hilum and brown seed coats.
+\newblock {\em {BMC} Plant Biology}, 11(1):155, 2011.
 
 \bibitem{Glmin2009}
 Sylvain Gl{\'{e}}min and Thomas Bataillon.
@@ -190,6 +287,14 @@ Thomas~E. Hughes, Jane~A. Langdale, and Steven Kelly.
   gene evolution following whole-genome duplication in maize.
 \newblock {\em Genome Research}, 24(8):1348--1355, apr 2014.
 
+\bibitem{Hunt2012}
+Harriet~V. Hunt, Hannah~M. Moots, Robert~A. Graybosch, Huw Jones, Mary Parker,
+  Olga Romanova, Martin~K. Jones, Christopher~J. Howe, and Kay Trafford.
+\newblock Waxy phenotype evolution in the allotetraploid cereal broomcorn
+  millet: Mutations at the {GBSSI} locus in their functional and phylogenetic
+  context.
+\newblock {\em Molecular Biology and Evolution}, 30(1):109--122, oct 2012.
+
 \bibitem{Jain1993}
 Subodh Jain.
 \newblock Crops and man. 2nd ed. 1992. by jack r. harlan. american society of
@@ -198,17 +303,50 @@ Subodh Jain.
 \newblock {\em American Journal of Alternative Agriculture}, 8(01):47, mar
   1993.
 
+\bibitem{Jeon2010}
+Jong-Seong Jeon, Nayeon Ryoo, Tae-Ryong Hahn, Harkamal Walia, and Yasunori
+  Nakamura.
+\newblock Starch biosynthesis in cereal endosperm.
+\newblock {\em Plant Physiology and Biochemistry}, 48(6):383--392, jun 2010.
+
+\bibitem{Jia2009}
+Qiaojun Jia, Jingjuan Zhang, Sharon Westcott, Xiao-Qi Zhang, Mathew Bellgard,
+  Reg Lance, and Chengdao Li.
+\newblock {GA}-20 oxidase as a candidate for the semidwarf gene sdw1/denso in
+  barley.
+\newblock {\em Functional {\&} Integrative Genomics}, 9(2):255--262, mar 2009.
+
+\bibitem{Jones2008}
+H.~Jones, F.~J. Leigh, I.~Mackay, M.~A. Bower, L.~M.J. Smith, M.~P. Charles,
+  G.~Jones, M.~K. Jones, T.~A. Brown, and W.~Powell.
+\newblock Population-based resequencing reveals that the flowering time
+  adaptation of cultivated barley originated east of the fertile crescent.
+\newblock {\em Molecular Biology and Evolution}, 25(10):2211--2219, jul 2008.
+
 \bibitem{Joo2013}
 Joungsu Joo, Youn~Hab Lee, Yeon-Ki Kim, Baek~Hie Nahm, and Sang~Ik Song.
 \newblock Abiotic stress responsive rice {ASR}1 and {ASR}3 exhibit different
   tissue-dependent sugar and hormone-sensitivities.
 \newblock {\em Molecules and Cells}, 35(5):421--435, apr 2013.
 
+\bibitem{Juwattanasomran2010}
+Ruangchai Juwattanasomran, Prakit Somta, Sompong Chankaew, Takehiko Shimizu,
+  Sugunya Wongpornchai, Akito Kaga, and Peerasak Srinives.
+\newblock A {SNP} in {GmBADH}2 gene associates with fragrance in vegetable
+  soybean variety kaori and {SNAP} marker development for the fragrance.
+\newblock {\em Theoretical and Applied Genetics}, 122(3):533--541, nov 2010.
+
 \bibitem{Katsuhara2002}
 Maki Katsuhara, Yoshiko Akiyama, Kazuki Koshio, Mineo Shibasaka, and Kunihiro
   Kasamo.
 \newblock Functional analysis of water channels in barley roots.
 \newblock {\em Plant and Cell Physiology}, 43(8):885--893, aug 2002.
+
+\bibitem{Kawahigashi2013}
+Hiroyuki Kawahigashi, Masao Oshima, Tomotaro Nishikawa, Hisahito Okuizumi,
+  Shigemitsu Kasuga, and Jun ichi Yonemaru.
+\newblock A novelwaxyallele in sorghum landraces in east asia.
+\newblock {\em Plant Breeding}, 132(3):305--310, apr 2013.
 
 \bibitem{Kawase2005}
 Makoto Kawase, Kenji Fukunaga, and Kenji Kato.
@@ -235,6 +373,33 @@ Zvia Konrad and Dudy Bar-Zvi.
   {ASR}1 protein and the osmolyte glycine-betaine.
 \newblock {\em Planta}, 227(6):1213--1219, feb 2008.
 
+\bibitem{Koskela2012}
+E.~A. Koskela, K.~Mouhu, M.~C. Albani, T.~Kurokura, M.~Rantanen, D.~J. Sargent,
+  N.~H. Battey, G.~Coupland, P.~Elomaa, and T.~Hytonen.
+\newblock Mutation in {TERMINAL} {FLOWER}1 reverses the photoperiodic
+  requirement for flowering in the wild strawberry fragaria vesca.
+\newblock {\em {PLANT} {PHYSIOLOGY}}, 159(3):1043--1054, may 2012.
+
+\bibitem{Kovach2009}
+M.~J. Kovach, M.~N. Calingacion, M.~A. Fitzgerald, and S.~R. McCouch.
+\newblock The origin and evolution of fragrance in rice (oryza sativa l.).
+\newblock {\em Proceedings of the National Academy of Sciences},
+  106(34):14444--14449, aug 2009.
+
+\bibitem{Krattinger2010}
+Simon~G. Krattinger, Evans~S. Lagudah, Thomas Wicker, Joanna~M. Risk,
+  Anthony~R. Ashton, Liselotte~L. Selter, Takashi Matsumoto, and Beat Keller.
+\newblock Lr34 multi-pathogen resistance {ABC} transporter: molecular analysis
+  of homoeologous and orthologous genes in hexaploid wheat and other grass
+  species.
+\newblock {\em The Plant Journal}, 65(3):392--403, dec 2010.
+
+\bibitem{Kwak2012}
+Myounghai Kwak, Orlando Toro, Daniel~G. Debouck, and Paul Gepts.
+\newblock Multiple origins of the determinate growth habit in domesticated
+  common bean (phaseolus vulgaris).
+\newblock {\em Annals of Botany}, 110(8):1573--1580, sep 2012.
+
 \bibitem{Lai2017}
 Xianjun Lai, James~C. Schnable, Zhengqiao Liao, Jie Xu, Gengyun Zhang, Chuan
   Li, Erliang Hu, Tingzhao Rong, Yunbi Xu, and Yanli Lu.
@@ -259,10 +424,25 @@ Jianrui Li, Yang Dong, Cong Li, Yanlin Pan, and Jingjuan Yu.
   abiotic stress adaption in plants.
 \newblock {\em Frontiers in Plant Science}, 7, jan 2017.
 
+\bibitem{Lin2012}
+Zhongwei Lin, Xianran Li, Laura~M Shannon, Cheng-Ting Yeh, Ming~L Wang, Guihua
+  Bai, Zhao Peng, Jiarui Li, Harold~N Trick, Thomas~E Clemente, John Doebley,
+  Patrick~S Schnable, Mitchell~R Tuinstra, Tesfaye~T Tesso, Frank White, and
+  Jianming Yu.
+\newblock Parallel domestication of the shattering1 genes in cereals.
+\newblock {\em Nature Genetics}, 44(6):720--724, may 2012.
+
 \bibitem{Lisch2001}
 D.~R. Lisch.
 \newblock Mutator transposase is widespread in the grasses.
 \newblock {\em {PLANT} {PHYSIOLOGY}}, 125(3):1293--1303, mar 2001.
+
+\bibitem{Liu2010}
+B.~Liu, S.~Watanabe, T.~Uchiyama, F.~Kong, A.~Kanazawa, Z.~Xia, A.~Nagamatsu,
+  M.~Arai, T.~Yamada, K.~Kitamura, C.~Masuta, K.~Harada, and J.~Abe.
+\newblock The soybean stem growth habit gene dt1 is an ortholog of arabidopsis
+  {TERMINAL} {FLOWER}1.
+\newblock {\em {PLANT} {PHYSIOLOGY}}, 153(1):198--210, mar 2010.
 
 \bibitem{Lyu2017}
 Jun Lyu.
@@ -276,16 +456,65 @@ Irina Makarevitch, Amanda~J. Waters, Patrick~T. West, Michelle Stitzer,
   response to abiotic stress.
 \newblock {\em {PLoS} Genetics}, 11(1):e1004915, jan 2015.
 
+\bibitem{Martin2013}
+Arnaud Martin and Virginie Orgogozo.
+\newblock {THE} {LOCI} {OF} {REPEATED} {EVOLUTION}: A {CATALOG} {OF} {GENETIC}
+  {HOTSPOTS} {OF} {PHENOTYPIC} {VARIATION}.
+\newblock {\em Evolution}, pages n/a--n/a, mar 2013.
+
+\bibitem{Matsubara2012}
+Kazuki Matsubara, Eri Ogiso-Tanaka, Kiyosumi Hori, Kaworu Ebana, Tsuyu Ando,
+  and Masahiro Yano.
+\newblock Natural variation in hd17, a homolog of arabidopsis {ELF}3 that is
+  involved in rice photoperiodic flowering.
+\newblock {\em Plant and Cell Physiology}, 53(4):709--716, mar 2012.
+
 \bibitem{Miller2011}
 Allison~J. Miller and Briana~L. Gross.
 \newblock From forest to field: Perennial fruit crop domestication.
 \newblock {\em American Journal of Botany}, 98(9):1389--1414, sep 2011.
+
+\bibitem{Multani2003}
+D.~S. Multani.
+\newblock Loss of an {MDR} transporter in compact stalks of maize br2 and
+  sorghum dw3 mutants.
+\newblock {\em Science}, 302(5642):81--84, oct 2003.
+
+\bibitem{MURAKAMI2005}
+Masaya MURAKAMI, Akinori MATSUSHIKA, Motoyuki ASHIKARI, Takafumi YAMASHINO, and
+  Takeshi MIZUNO.
+\newblock Circadian-associated rice pseudo response regulators ({OsPRRs}):
+  Insight into the control of flowering time.
+\newblock {\em Bioscience, Biotechnology, and Biochemistry}, 69(2):410--414,
+  jan 2005.
 
 \bibitem{Negi2016}
 Pooja Negi, Archana~N. Rai, and Penna Suprasanna.
 \newblock Moving through the stressed genome: Emerging regulatory roles for
   transposons in plant stress response.
 \newblock {\em Frontiers in Plant Science}, 7, oct 2016.
+
+\bibitem{Okazaki2006}
+K.~Okazaki, K.~Sakamoto, R.~Kikuchi, A.~Saito, E.~Togashi, Y.~Kuginuki,
+  S.~Matsumoto, and M.~Hirai.
+\newblock Mapping and characterization of {FLC} homologs and {QTL} analysis of
+  flowering time in brassica oleracea.
+\newblock {\em Theoretical and Applied Genetics}, 114(4):595--608, nov 2006.
+
+\bibitem{Park2011}
+Young-Jun Park, Tomotaro Nishikawa, Norihiko Tomooka, and Kazuhiro Nemoto.
+\newblock The molecular basis of mutations at the waxy locus from amaranthus
+  caudatus l.: evolution of the waxy phenotype in three species of grain
+  amaranth.
+\newblock {\em Molecular Breeding}, 30(1):511--520, sep 2011.
+
+\bibitem{Parvathaneni2013}
+Rajiv~K. Parvathaneni, Vinod Jakkula, Francis~K. Padi, Sebastien Faure, Nethra
+  Nagarajappa, Ana~C. Pontaroli, Xiaomei Wu, Jeffrey~L. Bennetzen, and
+  Katrien~M. Devos.
+\newblock Fine-mapping and identification of a candidate gene underlying the d2
+  dwarfing phenotype in pearl millet, cenchrus americanus (l.) morrone.
+\newblock {\em G3: Genes Genomes Genetics}, 3(3):563--572, mar 2013.
 
 \bibitem{Paterson2004}
 A.~H. Paterson, J.~E. Bowers, and B.~A. Chapman.
@@ -318,10 +547,33 @@ Tanja Pyh\"{a}j\"{a}rvi, Matthew~B. Hufford, Sofiane Mezmouk, and Jeffrey
 \newblock Complex patterns of local adaptation in teosinte.
 \newblock {\em Genome Biology and Evolution}, 5(9):1594--1609, jul 2013.
 
+\bibitem{Ramsay2011}
+Luke Ramsay, Jordi Comadran, Arnis Druka, David~F Marshall, William T~B Thomas,
+  Malcolm Macaulay, Katrin MacKenzie, Craig Simpson, John Fuller, Nicola Bonar,
+  Patrick~M Hayes, Udda Lundqvist, Jerome~D Franckowiak, Timothy~J Close,
+  Gary~J Muehlbauer, and Robbie Waugh.
+\newblock {INTERMEDIUM}-c, a modifier of lateral spikelet fertility in barley,
+  is an ortholog of the maize domestication gene {TEOSINTE} {BRANCHED} 1.
+\newblock {\em Nature Genetics}, 43(2):169--172, jan 2011.
+
+\bibitem{Remigereau2011}
+Marie-Stanislas Remigereau, Ghayas Lakis, Samah Rekima, Magalie Leveugle,
+  Michaël~C. Fontaine, Thierry Langin, Aboubakry Sarr, and Thierry Robert.
+\newblock Cereal domestication and evolution of branching: Evidence for soft
+  selection in the tb1 orthologue of pearl millet (pennisetum glaucum [l.] r.
+  br.).
+\newblock {\em {PLoS} {ONE}}, 6(7):e22404, jul 2011.
+
 \bibitem{RennyByfield2017}
 Simon Renny-Byfield, Eli Rodgers-Melnick, and Jeffrey Ross-Ibarra.
 \newblock Gene fractionation and function in the ancient subgenomes of maize.
 \newblock {\em Molecular Biology and Evolution}, 34(8):1825--1832, apr 2017.
+
+\bibitem{Repinski2012}
+S.~L. Repinski, M.~Kwak, and P.~Gepts.
+\newblock The common bean growth habit gene {PvTFL}1y is a functional homolog
+  of arabidopsis {TFL}1.
+\newblock {\em Theoretical and Applied Genetics}, 124(8):1539--1547, feb 2012.
 
 \bibitem{Schnable2011}
 J.~C. Schnable, N.~M. Springer, and M.~Freeling.
@@ -366,11 +618,25 @@ Z.~Swigonova.
 \newblock Close split of sorghum and maize genome progenitors.
 \newblock {\em Genome Research}, 14(10a):1916--1923, sep 2004.
 
+\bibitem{Takahashi2009}
+Y.~Takahashi, K.~M. Teshima, S.~Yokoi, H.~Innan, and K.~Shimamoto.
+\newblock Variations in hd1 proteins, hd3a promoters, and ehd1 expression
+  levels contribute to diversity of flowering time in cultivated rice.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  106(11):4555--4560, feb 2009.
+
 \bibitem{Takumi2003}
 S.~Takumi.
 \newblock Cold-specific and light-stimulated expression of a wheat (triticum
   aestivum l.) cor gene wcor15 encoding a chloroplast-targeted protein.
 \newblock {\em Journal of Experimental Botany}, 54(391):2265--2274, oct 2003.
+
+\bibitem{Tian2010}
+Z.~Tian, X.~Wang, R.~Lee, Y.~Li, J.~E. Specht, R.~L. Nelson, P.~E. McClean,
+  L.~Qiu, and J.~Ma.
+\newblock Artificial selection for determinate growth habit in soybean.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  107(19):8563--8568, apr 2010.
 
 \bibitem{pmid10846621}
 S.~Tsvetanov, R.~Ohno, K.~Tsuda, S.~Takumi, N.~Mori, A.~Atanassov, and
@@ -378,6 +644,12 @@ S.~Tsvetanov, R.~Ohno, K.~Tsuda, S.~Takumi, N.~Mori, A.~Atanassov, and
 \newblock {{A} cold-responsive wheat ({T}riticum aestivum {L}.) gene wcor14
   identified in a winter-hardy cultivar '{M}ironovska 808'}.
 \newblock {\em Genes Genet. Syst.}, 75(1):49--57, Feb 2000.
+
+\bibitem{Turner2005}
+A.~Turner.
+\newblock The pseudo-response regulator ppd-h1 provides adaptation to
+  photoperiod in barley.
+\newblock {\em Science}, 310(5750):1031--1034, nov 2005.
 
 \bibitem{Wang2005}
 Huai Wang, Tina Nussbaum-Wagler, Bailin Li, Qiong Zhao, Yves Vigouroux,
@@ -399,6 +671,22 @@ Xianglan Wang, Hongwei Wang, Shengxue Liu, Ali Ferjani, Jiansheng Li, Jianbing
   maize seedlings.
 \newblock {\em Nature Genetics}, 48(10):1233--1241, aug 2016.
 
+\bibitem{pmid12242248}
+C.~A. Webb, T.~E. Richter, N.~C. Collins, M.~Nicolas, H.~N. Trick, T.~Pryor,
+  and S.~H. Hulbert.
+\newblock {{G}enetic and molecular characterization of the maize rp3 rust
+  resistance locus}.
+\newblock {\em Genetics}, 162(1):381--394, Sep 2002.
+
+\bibitem{Weller2012}
+J.~L. Weller, L.~C. Liew, V.~F.~G. Hecht, V.~Rajandran, R.~E. Laurie, S.~Ridge,
+  B.~Wenden, J.~K.~Vander Schoor, O.~Jaminon, C.~Blassiau, M.~Dalmais,
+  C.~Rameau, A.~Bendahmane, R.~C. Macknight, and I.~Lejeune-Henaut.
+\newblock A conserved molecular basis for photoperiod adaptation in two
+  temperate legumes.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  109(51):21158--21163, dec 2012.
+
 \bibitem{Wicker2016}
 Thomas Wicker, Yeisoo Yu, Georg Haberer, Klaus F.~X. Mayer, Pradeep~Reddy
   Marri, Steve Rounsley, Mingsheng Chen, Andrea Zuccolo, Olivier Panaud, Rod~A.
@@ -406,6 +694,12 @@ Thomas Wicker, Yeisoo Yu, Georg Haberer, Klaus F.~X. Mayer, Pradeep~Reddy
 \newblock {DNA} transposon activity is associated with increased mutation rates
   in genes of rice and other grasses.
 \newblock {\em Nature Communications}, 7:12790, sep 2016.
+
+\bibitem{Wilhelm2008}
+Edward~P. Wilhelm, Adrian~S. Turner, and David~A. Laurie.
+\newblock Photoperiod insensitive ppd-a1a mutations in tetraploid wheat
+  (triticum durum desf.).
+\newblock {\em Theoretical and Applied Genetics}, 118(2):285--294, oct 2008.
 
 \bibitem{Woodhouse2011}
 M.~R. Woodhouse, H.~Tang, and M.~Freeling.
@@ -420,12 +714,56 @@ Margaret~R. Woodhouse, James~C. Schnable, Brent~S. Pedersen, Eric Lyons, Damon
   genes preferentially from one of the two homeologs.
 \newblock {\em {PLoS} Biology}, 8(6):e1000409, jun 2010.
 
+\bibitem{Wu2012}
+Jian Wu, Keyun Wei, Feng Cheng, Shikai Li, Qian Wang, Jianjun Zhao, Guusje
+  Bonnema, and Xiaowu Wang.
+\newblock A naturally occurring {InDel} variation in {BraA}.{FLC}.b ({BrFLC}2)
+  associated with flowering time variation in brassica rapa.
+\newblock {\em {BMC} Plant Biology}, 12(1):151, 2012.
+
+\bibitem{Yan2006}
+L.~Yan, D.~Fu, C.~Li, A.~Blechl, G.~Tranquilli, M.~Bonafede, A.~Sanchez,
+  M.~Valarik, S.~Yasuda, and J.~Dubcovsky.
+\newblock The wheat and barley vernalization gene {VRN}3 is an orthologue of
+  {FT}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  103(51):19581--19586, dec 2006.
+
+\bibitem{Yuan2009}
+Yu-Xiang Yuan, Jian Wu, Ri-Fei Sun, Xiao-Wei Zhang, Dong-Hui Xu, Guusje
+  Bonnema, and Xiao-Wu Wang.
+\newblock A naturally occurring splicing site mutation in the brassica rapa
+  {FLC}1 gene is associated with variation in flowering time.
+\newblock {\em Journal of Experimental Botany}, 60(4):1299--1308, feb 2009.
+
+\bibitem{Zakhrabekova2012}
+S.~Zakhrabekova, S.~P. Gough, I.~Braumann, A.~H. Muller, J.~Lundqvist,
+  K.~Ahmann, C.~Dockter, I.~Matyszczak, M.~Kurowska, A.~Druka, R.~Waugh,
+  A.~Graner, N.~Stein, B.~Steuernagel, U.~Lundqvist, and M.~Hansson.
+\newblock Induced mutations in circadian clock regulator mat-a facilitated
+  short-season adaptation and range extension in cultivated barley.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  109(11):4326--4331, feb 2012.
+
+\bibitem{Zhang2009}
+Yongfei Zhang, Shuping Cheng, Darlene~De Jong, Helen Griffiths, Rayko
+  Halitschke, and Walter~De Jong.
+\newblock The potato r locus codes for dihydroflavonol 4-reductase.
+\newblock {\em Theoretical and Applied Genetics}, 119(5):931--937, jul 2009.
+
 \bibitem{Zhou2016}
 Liguo Zhou, Zaochang Liu, Yunhua Liu, Deyan Kong, Tianfei Li, Shunwu Yu, Hanwei
   Mei, Xiaoyan Xu, Hongyan Liu, Liang Chen, and Lijun Luo.
 \newblock A novel gene {OsAHL}1 improves both drought avoidance and drought
   tolerance in rice.
 \newblock {\em Scientific Reports}, 6(1), jul 2016.
+
+\bibitem{Zhu2011}
+B.-F. Zhu, L.~Si, Z.~Wang, Y.~Z.~Jingjie Zhu, Y.~Shangguan, D.~Lu, D.~Fan,
+  C.~Li, H.~Lin, Q.~Qian, T.~Sang, B.~Zhou, Y.~Minobe, and B.~Han.
+\newblock Genetic control of a transition from black to straw-white seed hull
+  in rice domestication.
+\newblock {\em {PLANT} {PHYSIOLOGY}}, 155(3):1301--1311, jan 2011.
 
 \bibitem{Zhu2005}
 Chuanfeng Zhu, Daniela Schraut, Wolfram Hartung, and Anton~R. Sch\"{a}ffner.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  6 SEP 2018 16:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  6 SEP 2018 18:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -860,35 +860,55 @@ Package pdftex.def Info: Figure_1.pdf  used on input line 121.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4] [5 <./Figure_1.pdf>] [6] [7]
-Overfull \hbox (16.26057pt too wide) in paragraph at lines 174--175
+[4]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 153.
+
+Overfull \hbox (65.03642pt too wide) in paragraph at lines 153--192
+ [] 
+ []
+
+[5 <./Figure_1.pdf>] [6] [7] [8]
+Overfull \hbox (16.26057pt too wide) in paragraph at lines 221--222
 []\OT1/ptm/m/n/12 But an-other way an adap-ta-tion trait could es-cape a do-mes
 -ti-ca-tion bot-tle-neck is if the domestication-
  []
 
-[8] (./convergence.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 28--34
+[9] (./convergence.bbl [10]
+Underfull \hbox (badness 10000) in paragraph at lines 65--71
 []\OT1/ptm/m/n/12 YANIS BOUCHENAK-KHELLADI, G. AN-THONY VER-BOOM, VIN-CENT
  []
 
-[9] [10] [11] [12] [13] [14]) [15] (./convergence.aux) ) 
+[11]
+Underfull \hbox (badness 5036) in paragraph at lines 189--194
+[]\OT1/ptm/m/n/12 F. Foucher.  DE-TER-MI-NATE and LATE FLOW-ER-ING are two TER-
+MI-NAL
+ []
+
+[12] [13]
+Underfull \hbox (badness 3128) in paragraph at lines 346--350
+[]\OT1/ptm/m/n/12 Hiroyuki Kawahi-gashi, Masao Os-hima, To-mo-taro Nishikawa, H
+isahito Okuizumi,
+ []
+
+[14] [15] [16] [17] [18] [19]) [20] (./convergence.aux) ) 
 Here is how much of TeX's memory you used:
- 14781 strings out of 492649
- 285519 string characters out of 6129622
- 362805 words of memory out of 5000000
- 18321 multiletter control sequences out of 15000+600000
- 24410 words of font info for 48 fonts, out of 8000000 for 9000
+ 14936 strings out of 492649
+ 288259 string characters out of 6129622
+ 407586 words of memory out of 5000000
+ 18474 multiletter control sequences out of 15000+600000
+ 29812 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,56p,2040b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/201
-8/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fo
-nts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
-urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/
-utmri8a.pfb>
-Output written on convergence.pdf (15 pages, 151987 bytes).
+ 62i,15n,56p,2054b,669s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/20
+18/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/f
+onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
+/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times
+/utmri8a.pfb>
+Output written on convergence.pdf (20 pages, 173590 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
+ 156 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
