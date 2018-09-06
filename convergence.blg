@@ -1,46 +1,46 @@
 This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: convergence.aux
-The style file: ieeetr.bst
+The style file: plain.bst
 Database file #1: convergence.bib
-You've used 60 entries,
-            1876 wiz_defined-function locations,
-            896 strings with 16323 characters,
-and the built_in function-call counts, 20979 in all, are:
-= -- 2172
-> -- 871
-< -- 0
-+ -- 315
-- -- 255
-* -- 1648
-:= -- 2891
-add.period$ -- 60
-call.type$ -- 60
-change.case$ -- 60
+You've used 70 entries,
+            2118 wiz_defined-function locations,
+            978 strings with 18940 characters,
+and the built_in function-call counts, 27935 in all, are:
+= -- 2687
+> -- 1673
+< -- 1
++ -- 669
+- -- 592
+* -- 2567
+:= -- 4769
+add.period$ -- 211
+call.type$ -- 70
+change.case$ -- 506
 chr.to.int$ -- 0
-cite$ -- 60
-duplicate$ -- 990
-empty$ -- 1669
-format.name$ -- 255
-if$ -- 5025
+cite$ -- 70
+duplicate$ -- 770
+empty$ -- 1868
+format.name$ -- 592
+if$ -- 5462
 int.to.chr$ -- 0
-int.to.str$ -- 60
-missing$ -- 60
-newline$ -- 183
-num.names$ -- 60
-pop$ -- 75
+int.to.str$ -- 70
+missing$ -- 70
+newline$ -- 353
+num.names$ -- 140
+pop$ -- 373
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 436
 quote$ -- 0
-skip$ -- 928
+skip$ -- 509
 stack$ -- 0
-substring$ -- 1845
-swap$ -- 564
-text.length$ -- 0
+substring$ -- 2018
+swap$ -- 75
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 280
 warning$ -- 0
-while$ -- 212
-width$ -- 62
-write$ -- 598
+while$ -- 258
+width$ -- 72
+write$ -- 772
