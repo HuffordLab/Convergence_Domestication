@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 SEP 2018 08:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  8 SEP 2018 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -849,52 +849,102 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 61.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 49.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 61.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 49.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 61.
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 49.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 61.
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 49.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 []|\OT1/ptm/m/n/12 Non-shattering/indehiscent
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 75--75
+Underfull \hbox (badness 1609) in paragraph at lines 73--73
 []|\OT1/ptm/m/n/12 Sexual to veg-e-ta-tive re-pro-
  []
 
 [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] <Figure_1.pdf, id=18, 722.7pt x 542.025pt>
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] <Figure_1.pdf, id=20, 722.7pt x 542.025pt>
 File: Figure_1.pdf Graphic file (type pdf)
  <use Figure_1.pdf>
-Package pdftex.def Info: Figure_1.pdf used on input line 121.
+Package pdftex.def Info: Figure_1.pdf used on input line 117.
 (pdftex.def)             Requested size: 426.79134pt x 320.09798pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 153.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 149.
+
+./convergence.tex:152: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.152 ...ley & Family & grass-wide & OsGA20ox-2, 
+                                                  HvGA20ox-2 & Metabolic enz...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./convergence.tex:154: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154 ...arl millet & Family & grass-wide & dw3, 
+                                                  d2 & Transporter protein &...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./convergence.tex:155: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.155 ...bove family & outside the grasses & SP, 
+                                                  Dt1, PvTFL1y & Signaling ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./convergence.tex:155: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.155 ...amily & outside the grasses & SP, Dt1, 
+                                                  PvTFL1y & Signaling protei...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
 ./convergence.tex:156: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
@@ -903,422 +953,370 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.156 ...ley & Family & grass-wide & OsGA20ox-2, 
-                                                  HvGA20ox-2 & Metabolic enz...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./convergence.tex:158: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.158 ...arl millet & Family & grass-wide & dw3, 
-                                                  d2 & Transporter protein &...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./convergence.tex:159: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 ...bove family & outside the grasses & SP, 
-                                                  Dt1, PvTFL1y & Signaling ...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./convergence.tex:159: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 ...amily & outside the grasses & SP, Dt1, 
-                                                  PvTFL1y & Signaling protei...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./convergence.tex:160: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.160 ...ve family & grasses and beyond & HvCEN, 
+l.156 ...ve family & grasses and beyond & HvCEN, 
                                                   PsTFL1c, FvTFL1 & Signali...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:160: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:156: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.160 ...& grasses and beyond & HvCEN, PsTFL1c, 
+l.156 ...& grasses and beyond & HvCEN, PsTFL1c, 
                                                   FvTFL1 & Signaling protein...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:161: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:157: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.161 ...pecies/family & grass-wide & VRN1, BM5, 
+l.157 ...pecies/family & grass-wide & VRN1, BM5, 
                                                   TmAP1, WAP1, LpVRN1 & MA...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:161: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:157: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.161 ...amily & grass-wide & VRN1, BM5, TmAP1, 
+l.157 ...amily & grass-wide & VRN1, BM5, TmAP1, 
                                                   WAP1, LpVRN1 & MADS domai...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:161: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:157: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.161 ... grass-wide & VRN1, BM5, TmAP1, WAP1, 
+l.157 ... grass-wide & VRN1, BM5, TmAP1, WAP1, 
                                                   LpVRN1 & MADS domain TF & ...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:163: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:159: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.163 ... family & grasses and beyond & OsPRR37, 
+l.159 ... family & grasses and beyond & OsPRR37, 
                                                   Ppd-H1, Ppd1, SbPRR37, ...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:163: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:159: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.163 ... grasses and beyond & OsPRR37, Ppd-H1, 
+l.159 ... grasses and beyond & OsPRR37, Ppd-H1, 
                                                   Ppd1, SbPRR37, BvBTC1 & ...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:163: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:159: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.163 ...s and beyond & OsPRR37, Ppd-H1, Ppd1, 
+l.159 ...s and beyond & OsPRR37, Ppd-H1, Ppd1, 
                                                   SbPRR37, BvBTC1 & Circadi...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:163: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:159: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.163 ...nd & OsPRR37, Ppd-H1, Ppd1, SbPRR37, 
+l.159 ...nd & OsPRR37, Ppd-H1, Ppd1, SbPRR37, 
                                                   BvBTC1 & Circadian clock p...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:164: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:160: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.164 Turnip, 
+l.160 Turnip, 
                Brassica oleracea & Family & outside the grasses & BrFLC2, B...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:164: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:160: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.164 ... Family & outside the grasses & BrFLC2, 
+l.160 ... Family & outside the grasses & BrFLC2, 
                                                   BoFLC2 & MADS domain TF & ...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:165: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:161: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.165 ...ove family & grasses and beyond & Hd17, 
+l.161 ...ove family & grasses and beyond & Hd17, 
                                                   EAM8, Mat-a, HR, LcELF3...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:165: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:161: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.165 ...ily & grasses and beyond & Hd17, EAM8, 
+l.161 ...ily & grasses and beyond & Hd17, EAM8, 
                                                   Mat-a, HR, LcELF3 & Circ...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:165: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:161: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.165 ...asses and beyond & Hd17, EAM8, Mat-a, 
+l.161 ...asses and beyond & Hd17, EAM8, Mat-a, 
                                                   HR, LcELF3 & Circadian cl...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:165: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:161: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.165 ... and beyond & Hd17, EAM8, Mat-a, HR, 
+l.161 ... and beyond & Hd17, EAM8, Mat-a, HR, 
                                                   LcELF3 & Circadian clock p...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:166: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:162: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166 ...bove family & grasses and beyond & Hd3a 
+l.162 ...bove family & grasses and beyond & Hd3a 
                                                   (Heading date 3a), VRN3/T...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:166: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:162: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166 ...s and beyond & Hd3a (Heading date 3a), 
+l.162 ...s and beyond & Hd3a (Heading date 3a), 
                                                   VRN3/TaFT, HaFT1, HvFT &...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:166: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:162: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166 ... & Hd3a (Heading date 3a), VRN3/TaFT, 
+l.162 ... & Hd3a (Heading date 3a), VRN3/TaFT, 
                                                   HaFT1, HvFT & Signaling p...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:166: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:162: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166 ...�(Heading date 3a), VRN3/TaFT, HaFT1, 
+l.162 ...�(Heading date 3a), VRN3/TaFT, HaFT1, 
                                                   HvFT & Signaling protein &...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:168: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:164: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.168 ...ice, maize & Family & grass-wide & Sh1, 
+l.164 ...ice, maize & Family & grass-wide & Sh1, 
                                                   OsSh1, ZmSh1 & YABBY-like...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:168: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:164: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.168 ...ze & Family & grass-wide & Sh1, OsSh1, 
+l.164 ...ze & Family & grass-wide & Sh1, OsSh1, 
                                                   ZmSh1 & YABBY-like TF & Sh...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:169: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:165: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.169 ...ve family & grasses and beyond & GBSSI, 
+l.165 ...ve family & grasses and beyond & GBSSI, 
                                                   Waxy & Metabolic enzyme & ...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:170: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:166: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.170 ...es/family & grasses and beyond & BADH2, 
+l.166 ...es/family & grasses and beyond & BADH2, 
                                                   GmBADH2 & Metabolic enzyme...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:171: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:167: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.171 ...e family & grasses and beyond & Rd/DFR, 
+l.167 ...e family & grasses and beyond & Rd/DFR, 
                                                   DFR & Metabolic enzyme & C...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:178: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:174: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.178 ...et, barley & Family & grass-wide & tb1, 
+l.174 ...et, barley & Family & grass-wide & tb1, 
                                                   Pgtb1, INT-C & TCP-TF & P...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:178: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:174: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.178 ...ey & Family & grass-wide & tb1, Pgtb1, 
+l.174 ...ey & Family & grass-wide & tb1, Pgtb1, 
                                                   INT-C & TCP-TF & Plant arc...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:181: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:177: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.181 ...t, rye & Family & grass-wide & TaALMT1, 
+l.177 ...t, rye & Family & grass-wide & TaALMT1, 
                                                   ScALMT1 & Transporter prot...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./convergence.tex:182: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
+./convergence.tex:178: Package inputenc Error: Unicode char \u8:  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.182 ... Maize & Family & grass-wide & SbMATE1, 
+l.178 ... Maize & Family & grass-wide & SbMATE1, 
                                                   ZmMATE1 & Transporter prot...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (65.03642pt too wide) in paragraph at lines 153--192
+Overfull \hbox (65.03642pt too wide) in paragraph at lines 149--188
  [] 
  []
 
-[5 <./Figure_1.pdf>] [6] [7] [8]
-Overfull \hbox (16.26057pt too wide) in paragraph at lines 221--222
+[4] [5] [6 <./Figure_1.pdf>] [7] [8]
+Overfull \hbox (16.26057pt too wide) in paragraph at lines 217--218
 []\OT1/ptm/m/n/12 But an-other way an adap-ta-tion trait could es-cape a do-mes-ti-ca-tion bot-tle-neck is if the domestication-
  []
 
@@ -1339,18 +1337,18 @@ Underfull \hbox (badness 3128) in paragraph at lines 346--350
 
 [14] [15] [16] [17] [18] [19]) [20] (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux) ) 
 Here is how much of TeX's memory you used:
- 15068 strings out of 493089
- 288725 string characters out of 6134842
- 405506 words of memory out of 5000000
+ 15074 strings out of 493089
+ 288757 string characters out of 6134842
+ 409506 words of memory out of 5000000
  18196 multiletter control sequences out of 15000+600000
- 29812 words of font info for 57 fonts, out of 8000000 for 9000
+ 31592 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,15n,56p,2054b,669s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.pdf (20 pages, 173499 bytes).
+ 62i,15n,56p,2054b,675s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.pdf (20 pages, 187261 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
+ 164 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
