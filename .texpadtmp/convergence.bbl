@@ -441,6 +441,11 @@ D.~R. Lisch.
 \newblock Mutator transposase is widespread in the grasses.
 \newblock {\em {PLANT} {PHYSIOLOGY}}, 125(3):1293--1303, mar 2001.
 
+\bibitem{Lisch2013}
+Damon Lisch.
+\newblock How important are transposons for plant evolution?
+\newblock {\em Nature Reviews Genetics}, 14(1):49--61, jan 2013.
+
 \bibitem{Liu2010}
 B.~Liu, S.~Watanabe, T.~Uchiyama, F.~Kong, A.~Kanazawa, Z.~Xia, A.~Nagamatsu,
   M.~Arai, T.~Yamada, K.~Kitamura, C.~Masuta, K.~Harada, and J.~Abe.
@@ -472,6 +477,12 @@ Kazuki Matsubara, Eri Ogiso-Tanaka, Kiyosumi Hori, Kaworu Ebana, Tsuyu Ando,
 \newblock Natural variation in hd17, a homolog of arabidopsis {ELF}3 that is
   involved in rice photoperiodic flowering.
 \newblock {\em Plant and Cell Physiology}, 53(4):709--716, mar 2012.
+
+\bibitem{Mei2018}
+Wenbin Mei, Markus~G. Stetter, Daniel~J. Gates, Michelle~C. Stitzer, and
+  Jeffrey Ross-Ibarra.
+\newblock Adaptation in plant genomes: Bigger is different.
+\newblock {\em American Journal of Botany}, 105(1):16--19, jan 2018.
 
 \bibitem{Miller2011}
 Allison~J. Miller and Briana~L. Gross.
@@ -617,11 +628,6 @@ Anthony Studer, Qiong Zhao, Jeffrey Ross-Ibarra, and John Doebley.
   domestication gene tb1.
 \newblock {\em Nature Genetics}, 43(11):1160--1163, sep 2011.
 
-\bibitem{Swigonova2004}
-Z.~Swigonova.
-\newblock Close split of sorghum and maize genome progenitors.
-\newblock {\em Genome Research}, 14(10a):1916--1923, sep 2004.
-
 \bibitem{Takahashi2009}
 Y.~Takahashi, K.~M. Teshima, S.~Yokoi, H.~Innan, and K.~Shimamoto.
 \newblock Variations in hd1 proteins, hd3a promoters, and ehd1 expression
@@ -634,6 +640,13 @@ S.~Takumi.
 \newblock Cold-specific and light-stimulated expression of a wheat (triticum
   aestivum l.) cor gene wcor15 encoding a chloroplast-targeted protein.
 \newblock {\em Journal of Experimental Botany}, 54(391):2265--2274, oct 2003.
+
+\bibitem{Tenaillon2011}
+Maud~I. Tenaillon, Matthew~B. Hufford, Brandon~S. Gaut, and Jeffrey
+  Ross-Ibarra.
+\newblock Genome size and transposable element content as determined by
+  high-throughput sequencing in maize and zea luxurians.
+\newblock {\em Genome Biology and Evolution}, 3:219--229, jan 2011.
 
 \bibitem{Tian2010}
 Z.~Tian, X.~Wang, R.~Lee, Y.~Li, J.~E. Specht, R.~L. Nelson, P.~E. McClean,
