@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux
 The style file: plain.bst
 Database file #1: ../convergence.bib.bib
-You've used 123 entries,
+You've used 124 entries,
             2118 wiz_defined-function locations,
-            1296 strings with 33255 characters,
-and the built_in function-call counts, 54491 in all, are:
-= -- 5091
-> -- 3777
+            1301 strings with 33554 characters,
+and the built_in function-call counts, 55185 in all, are:
+= -- 5150
+> -- 3845
 < -- 2
-+ -- 1517
-- -- 1372
-* -- 5205
-:= -- 9375
-add.period$ -- 369
-call.type$ -- 123
-change.case$ -- 1056
++ -- 1544
+- -- 1398
+* -- 5280
+:= -- 9498
+add.period$ -- 372
+call.type$ -- 124
+change.case$ -- 1072
 chr.to.int$ -- 0
-cite$ -- 123
-duplicate$ -- 1357
-empty$ -- 3308
-format.name$ -- 1372
-if$ -- 10499
+cite$ -- 124
+duplicate$ -- 1368
+empty$ -- 3337
+format.name$ -- 1398
+if$ -- 10626
 int.to.chr$ -- 0
-int.to.str$ -- 123
-missing$ -- 122
-newline$ -- 617
-num.names$ -- 244
-pop$ -- 824
+int.to.str$ -- 124
+missing$ -- 123
+newline$ -- 622
+num.names$ -- 246
+pop$ -- 838
 preamble$ -- 1
-purify$ -- 933
+purify$ -- 948
 quote$ -- 0
-skip$ -- 896
+skip$ -- 903
 stack$ -- 0
-substring$ -- 3617
-swap$ -- 137
+substring$ -- 3653
+swap$ -- 138
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 492
+type$ -- 496
 warning$ -- 0
-while$ -- 460
-width$ -- 126
-write$ -- 1351
+while$ -- 464
+width$ -- 127
+write$ -- 1362
