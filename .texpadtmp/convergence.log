@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 FEB 2019 18:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 APR 2019 22:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -848,93 +848,98 @@ ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
- [2] [3] [4] [5]
-Overfull \hbox (7.1563pt too wide) in paragraph at lines 179--188
-\OT1/ptm/m/n/12 ne-o-func-tion-al-iza-tion and give rise to adap-tive loci. Ne-o-func-tion-al-iza-tion of home-ologs is widespread
- []
-
-[6] (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.bbl [7]
-Underfull \hbox (badness 10000) in paragraph at lines 65--71
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 80.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
+ [2] [3] [4] [5] [6] [7] (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.bbl [8]
+Underfull \hbox (badness 10000) in paragraph at lines 59--65
 []\OT1/ptm/m/n/12 YANIS BOUCHENAK-KHELLADI, G. AN-THONY VER-BOOM, VIN-CENT
  []
 
-[8] [9]
-Underfull \hbox (badness 5036) in paragraph at lines 186--191
+[9]
+Underfull \hbox (badness 5036) in paragraph at lines 169--174
 []\OT1/ptm/m/n/12 F. Foucher.  DE-TER-MI-NATE and LATE FLOW-ER-ING are two TER-MI-NAL
  []
 
 [10] [11]
-Underfull \hbox (badness 3128) in paragraph at lines 358--362
+Underfull \hbox (badness 3128) in paragraph at lines 326--330
 []\OT1/ptm/m/n/12 Hiroyuki Kawahi-gashi, Masao Os-hima, To-mo-taro Nishikawa, Hisahito Okuizumi,
  []
 
 [12] [13] [14] [15] [16] [17])
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 216.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 211.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 216.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 211.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 216.
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 211.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 216.
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 211.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 216.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 216.
-
-Underfull \hbox (badness 10000) in paragraph at lines 226--226
-[]|\OT1/ptm/m/n/12 Non-shattering/indehiscent
- []
-
-
-Underfull \hbox (badness 1609) in paragraph at lines 231--231
-[]|\OT1/ptm/m/n/12 Sexual to veg-e-ta-tive re-pro-
- []
-
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 211.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 245.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 211.
 
-Overfull \hbox (55.07822pt too wide) in paragraph at lines 245--285
+Overfull \hbox (55.07822pt too wide) in paragraph at lines 211--251
  [] 
  []
 
-<Figure_1.pdf, id=62, 722.7pt x 542.025pt>
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 252.
+<convergence_fig.pdf, id=62, 614.295pt x 794.97pt>
+File: convergence_fig.pdf Graphic file (type pdf)
+ <use convergence_fig.pdf>
+Package pdftex.def Info: convergence_fig.pdf used on input line 256.
+(pdftex.def)             Requested size: 426.79134pt x 552.32666pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figure_1.pdf, id=63, 722.7pt x 542.025pt>
 File: Figure_1.pdf Graphic file (type pdf)
  <use Figure_1.pdf>
-Package pdftex.def Info: Figure_1.pdf used on input line 290.
+Package pdftex.def Info: Figure_1.pdf used on input line 264.
 (pdftex.def)             Requested size: 426.79134pt x 320.09798pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[18] [19] [20] [21 <./Figure_1.pdf>] (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux) ) 
+<parallel_adaptation.pdf, id=64, 794.97pt x 614.295pt>
+File: parallel_adaptation.pdf Graphic file (type pdf)
+ <use parallel_adaptation.pdf>
+Package pdftex.def Info: parallel_adaptation.pdf used on input line 279.
+(pdftex.def)             Requested size: 426.79134pt x 329.80219pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18] [19] [20 <./convergence_fig.pdf>] [21 <./Figure_1.pdf>] [22 <./parallel_adaptation.pdf>] (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux) ) 
 Here is how much of TeX's memory you used:
- 15088 strings out of 493089
- 289074 string characters out of 6134842
- 419644 words of memory out of 5000000
- 18216 multiletter control sequences out of 15000+600000
- 29812 words of font info for 57 fonts, out of 8000000 for 9000
+ 15077 strings out of 493089
+ 288923 string characters out of 6134842
+ 407508 words of memory out of 5000000
+ 18203 multiletter control sequences out of 15000+600000
+ 30331 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,15n,56p,745b,689s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,15n,56p,830b,677s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.pdf (21 pages, 174997 bytes).
+Output written on /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.pdf (22 pages, 999100 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
+ 188 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
