@@ -1,46 +1,46 @@
 This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux
-The style file: plain.bst
+The style file: unsrt.bst
 Database file #1: ../convergence.bib.bib
-You've used 116 entries,
-            2118 wiz_defined-function locations,
-            1255 strings with 31836 characters,
-and the built_in function-call counts, 51981 in all, are:
-= -- 4857
-> -- 3615
+You've used 117 entries,
+            1791 wiz_defined-function locations,
+            1210 strings with 31727 characters,
+and the built_in function-call counts, 33930 in all, are:
+= -- 2757
+> -- 2232
 < -- 2
-+ -- 1451
-- -- 1314
-* -- 4986
-:= -- 8945
-add.period$ -- 349
-call.type$ -- 116
-change.case$ -- 1005
++ -- 789
+- -- 672
+* -- 3374
+:= -- 5660
+add.period$ -- 352
+call.type$ -- 117
+change.case$ -- 117
 chr.to.int$ -- 0
-cite$ -- 116
-duplicate$ -- 1286
-empty$ -- 3142
-format.name$ -- 1314
-if$ -- 10008
+cite$ -- 117
+duplicate$ -- 1063
+empty$ -- 2820
+format.name$ -- 672
+if$ -- 6959
 int.to.chr$ -- 0
-int.to.str$ -- 116
-missing$ -- 116
-newline$ -- 583
-num.names$ -- 232
-pop$ -- 780
+int.to.str$ -- 117
+missing$ -- 117
+newline$ -- 588
+num.names$ -- 117
+pop$ -- 124
 preamble$ -- 1
-purify$ -- 889
+purify$ -- 0
 quote$ -- 0
-skip$ -- 843
+skip$ -- 382
 stack$ -- 0
-substring$ -- 3481
-swap$ -- 130
+substring$ -- 2911
+swap$ -- 131
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 464
+type$ -- 0
 warning$ -- 0
-while$ -- 440
-width$ -- 119
-write$ -- 1279
+while$ -- 327
+width$ -- 120
+write$ -- 1290
