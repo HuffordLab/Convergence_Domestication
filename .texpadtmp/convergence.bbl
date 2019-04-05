@@ -282,12 +282,12 @@ Zvia Konrad and Dudy Bar-Zvi.
   {ASR}1 protein and the osmolyte glycine-betaine.
 \newblock {\em Planta}, 227(6):1213--1219, feb 2008.
 
-\bibitem{Zhou2016}
-Liguo Zhou, Zaochang Liu, Yunhua Liu, Deyan Kong, Tianfei Li, Shunwu Yu, Hanwei
-  Mei, Xiaoyan Xu, Hongyan Liu, Liang Chen, and Lijun Luo.
-\newblock A novel gene {OsAHL}1 improves both drought avoidance and drought
-  tolerance in rice.
-\newblock {\em Scientific Reports}, 6(1), jul 2016.
+\bibitem{pmid12242248}
+C.~A. Webb, T.~E. Richter, N.~C. Collins, M.~Nicolas, H.~N. Trick, T.~Pryor,
+  and S.~H. Hulbert.
+\newblock {{G}enetic and molecular characterization of the maize rp3 rust
+  resistance locus}.
+\newblock {\em Genetics}, 162(1):381--394, Sep 2002.
 
 \bibitem{Woodhouse2011}
 M.~R. Woodhouse, H.~Tang, and M.~Freeling.
@@ -768,6 +768,13 @@ Luke Ramsay, Jordi Comadran, Arnis Druka, David~F Marshall, William T~B Thomas,
   is an ortholog of the maize domestication gene {TEOSINTE} {BRANCHED} 1.
 \newblock {\em Nature Genetics}, 43(2):169--172, jan 2011.
 
+\bibitem{Zhou2016}
+Liguo Zhou, Zaochang Liu, Yunhua Liu, Deyan Kong, Tianfei Li, Shunwu Yu, Hanwei
+  Mei, Xiaoyan Xu, Hongyan Liu, Liang Chen, and Lijun Luo.
+\newblock A novel gene {OsAHL}1 improves both drought avoidance and drought
+  tolerance in rice.
+\newblock {\em Scientific Reports}, 6(1), jul 2016.
+
 \bibitem{Krattinger2010}
 Simon~G. Krattinger, Evans~S. Lagudah, Thomas Wicker, Joanna~M. Risk,
   Anthony~R. Ashton, Liselotte~L. Selter, Takashi Matsumoto, and Beat Keller.
@@ -775,12 +782,5 @@ Simon~G. Krattinger, Evans~S. Lagudah, Thomas Wicker, Joanna~M. Risk,
   of homoeologous and orthologous genes in hexaploid wheat and other grass
   species.
 \newblock {\em The Plant Journal}, 65(3):392--403, dec 2010.
-
-\bibitem{pmid12242248}
-C.~A. Webb, T.~E. Richter, N.~C. Collins, M.~Nicolas, H.~N. Trick, T.~Pryor,
-  and S.~H. Hulbert.
-\newblock {{G}enetic and molecular characterization of the maize rp3 rust
-  resistance locus}.
-\newblock {\em Genetics}, 162(1):381--394, Sep 2002.
 
 \end{thebibliography}
