@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 APR 2019 11:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 APR 2019 12:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -862,12 +862,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--75
  []
 
 [9] [10] [11] [12] [13] [14]
-Underfull \hbox (badness 3128) in paragraph at lines 517--521
+Underfull \hbox (badness 3128) in paragraph at lines 526--530
 []\OT1/ptm/m/n/12 Hiroyuki Kawahi-gashi, Masao Os-hima, To-mo-taro Nishikawa, Hisahito Okuizumi,
  []
 
 [15]
-Underfull \hbox (badness 5036) in paragraph at lines 593--598
+Underfull \hbox (badness 5036) in paragraph at lines 602--607
 []\OT1/ptm/m/n/12 F. Foucher.  DE-TER-MI-NATE and LATE FLOW-ER-ING are two TER-MI-NAL
  []
 
@@ -917,29 +917,32 @@ Package pdftex.def Info: Figure_1.pdf used on input line 286.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<parallel_adaptation.pdf, id=64, 794.97pt x 614.295pt>
-File: parallel_adaptation.pdf Graphic file (type pdf)
- <use parallel_adaptation.pdf>
-Package pdftex.def Info: parallel_adaptation.pdf used on input line 301.
-(pdftex.def)             Requested size: 426.79134pt x 329.80219pt.
+<parallel_adaptation2.pdf, id=64, 614.295pt x 794.97pt>
+File: parallel_adaptation2.pdf Graphic file (type pdf)
+ <use parallel_adaptation2.pdf>
+Package pdftex.def Info: parallel_adaptation2.pdf used on input line 301.
+(pdftex.def)             Requested size: 426.79134pt x 552.32666pt.
+
+
+LaTeX Warning: Float too large for page by 1.49455pt on input line 305.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[18] [19] [20 <./convergence_fig.pdf>] [21 <./Figure_1.pdf>] [22 <./parallel_adaptation.pdf>] (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux) ) 
+[18] [19] [20 <./convergence_fig.pdf>] [21 <./Figure_1.pdf>] [22 <./parallel_adaptation2.pdf>] (/Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.aux) ) 
 Here is how much of TeX's memory you used:
- 15077 strings out of 493089
- 288923 string characters out of 6134842
- 410512 words of memory out of 5000000
- 18203 multiletter control sequences out of 15000+600000
+ 15080 strings out of 493089
+ 288979 string characters out of 6134842
+ 410529 words of memory out of 5000000
+ 18206 multiletter control sequences out of 15000+600000
  30331 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,15n,56p,745b,656s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,15n,56p,745b,650s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.pdf (22 pages, 999620 bytes).
+Output written on /Users/mbhufford/Documents/Projects/Convergence/Convergence_Domestication/.texpadtmp/convergence.pdf (22 pages, 913012 bytes).
 PDF statistics:
  188 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
+ 127 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 

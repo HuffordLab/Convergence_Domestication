@@ -5,36 +5,36 @@ The style file: plain.bst
 Database file #1: convergence.bib
 You've used 117 entries,
             2118 wiz_defined-function locations,
-            1262 strings with 31814 characters,
-and the built_in function-call counts, 52318 in all, are:
-= -- 4892
-> -- 3628
+            1261 strings with 32028 characters,
+and the built_in function-call counts, 52737 in all, are:
+= -- 4920
+> -- 3693
 < -- 2
-+ -- 1457
-- -- 1318
-* -- 5014
-:= -- 9000
++ -- 1482
+- -- 1344
+* -- 5069
+:= -- 9080
 add.period$ -- 352
 call.type$ -- 117
-change.case$ -- 1010
+change.case$ -- 1023
 chr.to.int$ -- 0
 cite$ -- 117
 duplicate$ -- 1297
-empty$ -- 3169
-format.name$ -- 1318
-if$ -- 10076
+empty$ -- 3171
+format.name$ -- 1344
+if$ -- 10145
 int.to.chr$ -- 0
 int.to.str$ -- 117
 missing$ -- 117
 newline$ -- 588
 num.names$ -- 234
-pop$ -- 783
+pop$ -- 796
 preamble$ -- 1
-purify$ -- 893
+purify$ -- 906
 quote$ -- 0
-skip$ -- 851
+skip$ -- 850
 stack$ -- 0
-substring$ -- 3512
+substring$ -- 3517
 swap$ -- 131
 text.length$ -- 2
 text.prefix$ -- 0
